@@ -53,6 +53,6 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-Ishan Meduri 
-G.Vivekananda Reddy
+Ishan Meduri and 
+ G.Vivekananda Reddy
 -MIT Bengaluru-
